@@ -20,11 +20,11 @@ _______________________________
 #recalcitrant to any kind of spamming.
 #And ...
 _______________________________
-Developer : @Behroozyaghi
-Channel : @Nod32team
+Developer : @Dawsh_Arian
+Channel : @LicenceTeam
   
 Open git (Nod Super):
-----https://github.com/BH-YAGHI/NOD32-BOT.git ----
+----https://github.com/UniverseMelowdi/licence.git  ----
  
 Copyright © 2016 
 All Rights Reserved.
