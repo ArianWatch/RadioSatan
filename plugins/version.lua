@@ -2,9 +2,9 @@ do
 
 function run(msg, matches)
   return 'IN THE NAME OF GOD. '.. VERSION .. [[ 
-RADIOSATAN ANTI SPAM TG BOT (͡° ͜ʖ ͡°)
-An advance and powerful Administration bot based on RadioSatan Team.
-RADIOSATAN AntiSpams, commonly known as RadioSatan, is an AntiSpam Bot  made by the @Dawsh_Arian idea
+MELOWDI ANTI SPAM TG BOT (͡° ͜ʖ ͡°)
+An advance and powerful Administration bot based on Melowdi Team.
+Melowdi AntiSpams, commonly known as Melowdi, is an AntiSpam Bot  made by the @Dawsh_Arian idea
 _______________________________
 #Mute and #unmute msg.
 #Global ban.
@@ -21,10 +21,10 @@ _______________________________
 #And ...
 _______________________________
 Developer : @Dawsh_Arian
-Channel : @RadiRadianEn {English}
-@RadioSatanFa {Farsi}
+Channel : @MelowdiEn {English}
+@MelowdiFa {Farsi}
   
-Open git (RadioSatan):
+Open git (Melowdi):
 ----https://github.com/DawshArian/RadioSatan.git  ----
  
 Copyright © 2016 
