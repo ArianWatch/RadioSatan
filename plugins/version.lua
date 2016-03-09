@@ -2,9 +2,9 @@ do
 
 function run(msg, matches)
   return 'IN THE NAME OF GOD. '.. VERSION .. [[ 
-NOD32 ANTI SPAM TG BOT (͡° ͜ʖ ͡°)
-An advance and powerful Administration bot based on DBTeam.
-ESET NOD32 AntiSpams, commonly known as NOD32, is an AntiSpam Bot  made by the @BehroozYaghi idea
+RADIOSATAN ANTI SPAM TG BOT (͡° ͜ʖ ͡°)
+An advance and powerful Administration bot based on RadioSatan Team.
+RADIOSATAN AntiSpams, commonly known as RadioSatan, is an AntiSpam Bot  made by the @Dawsh_Arian idea
 _______________________________
 #Mute and #unmute msg.
 #Global ban.
@@ -21,10 +21,11 @@ _______________________________
 #And ...
 _______________________________
 Developer : @Dawsh_Arian
-Channel : @LicenceTeam
+Channel : @RadiRadianEn {English}
+@RadioSatanFa {Farsi}
   
-Open git (Nod Super):
-----https://github.com/UniverseMelowdi/licence.git  ----
+Open git (RadioSatan):
+----https://github.com/DawshArian/RadioSatan.git  ----
  
 Copyright © 2016 
 All Rights Reserved.
